@@ -31,7 +31,7 @@ The frontend provides an intuitive user interface and dynamic data visualization
 **Technologies:**
 - **Framework:** React.js   
 - **Styling:** Tailwind CSS  
-- **Charts & Graphs:** Chart.js / D3.js  
+- **Charts & Graphs:** Chart.js  
 - **Data Handling:** Axios (API calls)  
 - **UI Features:**
   - Interactive dashboard with real-time updates  
@@ -48,7 +48,7 @@ The frontend provides an intuitive user interface and dynamic data visualization
 ### ⚙️ Backend  
 The backend handles sentiment computation, data storage, and analytics logic.  
 **Technologies:**
-- **Language:** Python  
+- **Language:** html, css, JavaScript  
 - **Framework:** Flask / FastAPI (for RESTful endpoints)  
 - **AI Model:** Pre-trained NLP Sentiment Model (TextBlob / Hugging Face Transformers)  
 - **Database:** PostgreSQL / Firebase (for storing user logs and analysis history)  
@@ -69,8 +69,8 @@ The backend handles sentiment computation, data storage, and analytics logic.
 
 | Layer | Technology |
 |-------|-------------|
-| **Frontend** | React.js, Tailwind CSS, Chart.js, Axios |
-| **Backend** | Python, Flask/FastAPI, NLP Sentiment Model |
+| **Frontend** | React.js, style.CSS, Chart.js, Axios |
+| **Backend** | JavaScript, FastAPI, NLP Sentiment Model |
 | **Database** | PostgreSQL / Firebase |
 | **Hosting** | Base44 Cloud |
 | **AI Tools** | Natural Language Processing (TextBlob / Hugging Face) |
