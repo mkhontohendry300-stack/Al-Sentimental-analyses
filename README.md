@@ -1,7 +1,7 @@
 # Al-Sentimental-analyses
 
 # 🧠 Mind-Pulse AI  
-**Live Demo:** (https://mind-pulse-ai-a1bd00d7.base44.app/)](https://mind-pulse-ai-copy-9dbbaec5.base44.app/) 
+**Live Demo:** [(https://mind-pulse-ai-a1bd00d7.base44.app/)](https://mind-pulse-ai-copy-9dbbaec5.base44.app/) ](https://mind-pulse-ai-copy-9dbbaec5.base44.app/)
 **Tagline:** *Tracking Emotions. Empowering Minds.*
 
 ---
@@ -79,7 +79,7 @@ The backend handles sentiment computation, data storage, and analytics logic.
 ---
 
 ## 🚀 How It Works
-1. Visit the live app:(https://mind-pulse-ai-a1bd00d7.base44.app/)](https://mind-pulse-ai-copy-9dbbaec5.base44.app/)
+1. Visit the live app:[(https://mind-pulse-ai-a1bd00d7.base44.app/)](https://mind-pulse-ai-copy-9dbbaec5.base44.app/)](https://mind-pulse-ai-copy-9dbbaec5.base44.app/)
 2. Enter or upload your text dataset (tweets, journal entries, reflections, etc.).  
 3. Backend processes the text using an AI sentiment model.  
 4. Results are visualized in charts and summary panels on the frontend.  
